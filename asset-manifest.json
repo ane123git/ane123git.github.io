@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ane123git.github.io/static/css/main.b100e6da.chunk.css",
+    "main.js": "/ane123git.github.io/static/js/main.041f21ec.chunk.js",
+    "main.js.map": "/ane123git.github.io/static/js/main.041f21ec.chunk.js.map",
+    "runtime-main.js": "/ane123git.github.io/static/js/runtime-main.135303ce.js",
+    "runtime-main.js.map": "/ane123git.github.io/static/js/runtime-main.135303ce.js.map",
+    "static/js/2.611fe376.chunk.js": "/ane123git.github.io/static/js/2.611fe376.chunk.js",
+    "static/js/2.611fe376.chunk.js.map": "/ane123git.github.io/static/js/2.611fe376.chunk.js.map",
+    "index.html": "/ane123git.github.io/index.html",
+    "precache-manifest.f655f74c797a71784d377866a896cbca.js": "/ane123git.github.io/precache-manifest.f655f74c797a71784d377866a896cbca.js",
+    "service-worker.js": "/ane123git.github.io/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/ane123git.github.io/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/ane123git.github.io/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.135303ce.js",
+    "static/js/2.611fe376.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.041f21ec.chunk.js"
+  ]
+}
